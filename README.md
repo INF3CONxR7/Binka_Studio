@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="Logo de Binka Studio" width="128">
+  <img src="https://zupimages.net/up/26/43/5zui.png" alt="Logo de Binka Studio" width="128">
 </p>
 
 <h1 align="center">Binka Studio</h1>
