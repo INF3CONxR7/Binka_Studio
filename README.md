@@ -20,7 +20,7 @@
 ## Fonctionnalités
 
 - **BinkA → WAV** : les sons du jeu (`.binka`) deviennent des WAV PCM 16 bits, lisibles et modifiables partout.
-- 
+  
 - **WAV → BinkA** : vos sons repassent en BinkA, avec une **qualité** réglable de 1 (meilleur son) à 9 (fichier le plus
   petit). Tous les WAV sont acceptés : 8, 16, 24 ou 32 bits, flottants, mono, stéréo ou multicanal, jusqu’à 192 kHz
   (le son est ramené au PCM 16 bits stéréo, 48 kHz au plus, que demande l’encodeur).
